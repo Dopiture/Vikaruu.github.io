@@ -76,3 +76,7 @@ nav ul li a{
     background-color: #fff;
 }
 
+html, body {
+    height: 100%;
+    overflow-x: hidden;
+}
